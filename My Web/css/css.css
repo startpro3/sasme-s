@@ -1,0 +1,25 @@
+*{
+    border:0;
+    margin: 0;
+}
+
+body{
+    padding:10px;
+    background-color:#eee;
+    color:rgb(78, 43, 110);
+    position: relative;
+    
+}
+
+p , h1 , .auto{
+    margin:10px auto;
+}
+
+
+    
+
+img{
+    display: block;
+    width:30%
+}
+
